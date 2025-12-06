@@ -56,7 +56,7 @@ Distribution analysis
 
 Correlation heatmap
 
-Outlier detection using IQR
+Outlier detection using IQR(No outliers found )
 
 Class imbalance visualization
 
@@ -86,11 +86,11 @@ Removed LoanID
 
 Encoded categorical features:
 
-Label Encoding for ordinal features
+1-Label Encoding for ordinal features
 
-One-hot encoding for nominal features
+2-One-hot encoding for nominal features
 
-Converted Yes/No to 1/0
+3-Converted Yes/No to 1/0
 
 Handled class imbalance using:
 
